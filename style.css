@@ -23,6 +23,10 @@ body {
     background-color: #57463c !important;
 }
 
+.dropdown-menu a:hover {
+    background-color: #6A675B !important;
+}
+
 .p-5 {
     background-color: #0e274b90;
 }
