@@ -40,15 +40,17 @@ img:active {
 
 .footer {
     background-color: #20240fb7 !important;
+    font-size: 95% !important;
 }
 
 #heading,
 .footer {
     color: #d4caa19e !important;
     text-shadow: 1px 1px 1px black;
+    font-size: 120%;
 }
 
 .navbar {
     color: #0b62239e !important;
-    font-size: 120%;
+    font-size: 110%;
 }
