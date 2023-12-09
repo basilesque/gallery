@@ -32,8 +32,6 @@ body {
     background-color: #0e274b90;
 }
 
-
-
 img:hover {
     transform: scale(1.02);
     box-shadow: 5px 5px 5px rgba(43, 46, 65, 0.50);
