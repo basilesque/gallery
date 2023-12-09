@@ -13,8 +13,9 @@ body {
     font-family: 'Oswald', sans-serif !important;
 }
 
-#mainNavbar {
-    background-color: #43231c7d !important;
+#mainNavbar,
+.dropdown-menu {
+    background-color: #57463c !important;
 }
 
 .p-5 {
@@ -45,4 +46,9 @@ img:active {
 .footer {
     color: #d4caa19e !important;
     text-shadow: 1px 1px 1px black;
+}
+
+.navbar {
+    color: #0b62239e !important;
+    font-size: 120%;
 }
