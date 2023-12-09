@@ -28,9 +28,9 @@ function createElements() {
 
     container.appendChild(rowDiv);
 
-    const here = document.querySelector("#here")
+    const here = document.querySelector("#here");
     here.insertAdjacentElement('afterend', container);
-}
+};
 
 createElements();
 
