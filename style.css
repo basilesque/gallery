@@ -10,8 +10,7 @@ body {
 }
 
 * {
-    font-family: 'Kdam Thmor Pro', sans-serif;
-    font-family: 'Merriweather', serif;
+    font-family: 'Oswald', sans-serif !important;
 }
 
 #mainNavbar {
