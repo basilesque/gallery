@@ -2,6 +2,11 @@ function getRandomNumber() {
     return (Math.floor(Math.random() * 500)) + 500;
 };
 
+function resolution() {
+    let num = getRandomNumber();
+    return `${num}x${num}`;
+};
+
 function createElements() {
     const container = document.createElement('div');
     container.classList.add('container');
@@ -18,7 +23,7 @@ function createElements() {
 
         const image = document.createElement('img');
         image.classList.add('card-img-top');
-        image.src = `https://source.unsplash.com/random/${getRandomNumber()}x${getRandomNumber()}`;
+        image.src = `https://source.unsplash.com/random/${resolution()}`;
 
         cardDiv.appendChild(image);
         colDiv.appendChild(cardDiv);
