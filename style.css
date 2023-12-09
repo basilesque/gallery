@@ -1,0 +1,75 @@
+img {
+    object-fit: cover;
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #6A675B;
+}
+
+* {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+#mainNavbar {
+    background-color: #43231c7d !important;
+}
+
+.p-5 {
+    background-color: #0e274b90;
+}
+
+.card {
+    border: none;
+    background-color: #6A675B;
+}
+
+img:hover {
+    transform: scale(1.02);
+    box-shadow: 5px 5px 5px rgba(43, 46, 65, 0.50);
+    cursor: pointer;
+}
+
+img:active {
+    transform: scale(0.98);
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #20240fb7 !important;
+}
+
+/* .card-text {
+    font-weight: 200;
+    color: #13376C;
+}
+
+.card-title {
+    font-weight: 800;
+    color: #13376C;
+}
+
+.navbar {
+    color: #13376C;
+}
+
+
+
+
+
+.card-body {
+    background-color: rgba(197, 207, 234, 0.5);
+}
+
+.btn-outline-success {
+    border-color: #13376C90;
+    color: #13376C90;
+}
+
+.btn-outline-success:hover {
+    background-color: #13376C75;
+    border-color: #13376C75;
+} */
