@@ -4,6 +4,6 @@
  
  it gives you random images everytime you reload the page!
 
- [You can see the website here](https://basilesque.github.io/gallery)
+ [You can see the website here](https://basilesque.github.io/random-photos-gallery/)
 
 
